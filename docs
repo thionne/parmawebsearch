@@ -1,0 +1,14 @@
+# 📚 PermaSearch Documentation
+
+Welcome to the PermaSearch documentation suite.
+
+## �� Available Guides
+- [Installation Guide](installation.md)
+- [Quick Start](quick-start.md)
+- [Configuration](configuration.md)
+- [API Reference](api-reference.md)
+- [SDK Documentation](sdk.md)
+- [Integration Guide](integration.md)
+- [Architecture Overview](architecture.md)
+- [Deployment Guide](deployment.md)
+- [Monitoring Guide](monitoring.md)
