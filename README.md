@@ -1,5 +1,5 @@
 # 🔍 PermaSearch
-
+Creator: Thionne  X account [ @thionne_wtz ](https://x.com/Thionne_WTZ)
 **Decentralized Search Engine for the Permaweb**
 
 [![AO Protocol](https://img.shields.io/badge/Built%20on-AO%20Protocol-orange?style=flat-square&logo=arweave)](https://ao.arweave.dev)
@@ -476,8 +476,8 @@ PermaSearch represents the future of decentralized search - a censorship-resista
 **Built with ❤️ for the decentralized future**
 
 ### Connect With Us
-- 🌐 **Website**: [permasearch.io](https://permasearch.io)
-- 📚 **Documentation**: [docs.permasearch.io](https://docs.permasearch.io)
+- 🌐 **Website**: [ar://permasearch](ar://permasearch)
+- 📚
 - 🐙 **GitHub**: [github.com/permasearch/permasearch](https://github.com/permasearch/permasearch)
 - 🐦 **X (Twitter)**: [@PermaSearch_AO](https://x.com/PermaSearch_AO)
 # parmawebsearch
