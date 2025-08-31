@@ -6,7 +6,7 @@
 [![Arweave](https://img.shields.io/badge/Powered%20by-Arweave-blue?style=flat-square)](https://arweave.org)
 [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript)](https://typescriptlang.org)
 [![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react)](https://reactjs.org)
-[![PermaSearch Website](https://permasearch.ar.io)
+[PermaSearch Website](https://permasearch.ar.io)
 
 ## 📖 Overview
 
